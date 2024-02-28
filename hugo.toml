@@ -1,6 +1,6 @@
 baseURL = 'https://martineliska.vrsocloud.cz/'
 languageCode = 'en-us'
-title = 'Martin & Eliska'
+#title = 'Martin & Eliska'
 theme = 'huey'
 
 [params]
