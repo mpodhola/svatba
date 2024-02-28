@@ -11,13 +11,8 @@ weight: 10
 ---
 ![baner](/images/Eliska_a_Martin2.jpg)
 
-
 <p style="text-align: center;">Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí.</p>
-
-<p style="text-align: center;">Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24.
-srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.</p>
-
-
+<p style="text-align: center;">Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24. srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.</p>
 
 **PROGRAM**
 
