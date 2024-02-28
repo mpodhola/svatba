@@ -1,0 +1,80 @@
+baseURL = 'https://martineliska.vrsocloud.cz/'
+languageCode = 'en-us'
+title = 'Martin & Eliska'
+theme = 'huey'
+
+[params]
+  # General site metadata, used in header and other places
+  author = "Martin Podhola"
+  dateFormat = "January 2, 2006"
+  description = "Svatba Martina a Elisky"
+  keywords = ""
+  email = "mpdohola@gmail.com"
+  
+
+  # Use your Font Awesome token here. Example token is fake, so please get your own.
+  fontawesomeToken = "dd89b9c51b"
+
+  # Use content from _index.md on homepage
+  # useIndexContent = true # default is false
+
+  # Navigation, use Bulma options here
+  # navbarStyle = "is-transparent" # Default is "is-transparent"
+  # navbarTitleStyle = "has-text-black" # Default is "has-text-black"
+
+  # # Override Bulma schemes with values
+  #  schemeMain = "#F4E5C2" # Change background color, default is white
+   link = "#323232" # Bulma default is blue, though theme is black
+   linkHover = "#6DB193" # Bulma default is grey-darker, though theme is #888
+  # footerBackgroundColor = "false" # Bulma default is #fafafa. You can use "false" or #hex
+   navbarItemHoverColor = "#6DB193" # Bulma default is blue, though theme is #444
+   navbarItemColor = "#323232" # Bulma default is grey-dark, though theme is #888
+
+  # Set static directory locations and favicon
+  favicon = "assets/images/favicon.ico"
+  staticDir = ['static']
+# https://colorhunt.co/palette/3232328559a56db193f4e5c2/?ref=tab
+
+[menu]
+
+#Top Navigation
+# [[menu.nav]]
+#   identifier = 'home'
+#   name = 'Home'
+#   title = 'Home'
+#   url = '/'
+#   weight = 10
+
+# [[menu.nav]]
+#   identifier = 'album'
+#   name = 'Album'
+#   title = "Album"
+#   url = '/album/'
+#   weight = 20
+
+# Contacts
+
+[[ menu.social]]
+  identifier = 'instagram'
+  name = 'Instagram'
+  pre = "<i class='fab fa-instagram fa-lg'></i>"
+  url = "https://www.instagram.com/eliska_our_/"
+  weight = 10
+
+# [[ menu.social]]
+#   identifier = 'facebook'
+#   name = 'Facebook'
+#   pre = "<i class='fab fa-github fa-lg'></i>"
+#   url = ""
+#   weight = 20
+
+# [[ menu.social]]
+#   identifier = 'twitter'
+#   name = 'Twitter'
+#   pre = "<i class='fab fa-twitter fa-lg'></i>"
+#   url = "https://twitter.com/yourtwittername"
+#   weight = 30
+
+[outputs]
+  home = ['HTML', 'RSS']
+  pages = ['HTML']
