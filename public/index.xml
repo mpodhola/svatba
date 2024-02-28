@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin &amp; Eliska</title>
+    <link>https://martineliska.vrsocloud.cz/</link>
+    <description>Recent content on Martin &amp; Eliska</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://martineliska.vrsocloud.cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Czech</title>
+      <link>https://martineliska.vrsocloud.cz/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martineliska.vrsocloud.cz/home/</guid>
+      <description>Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí. Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24. srpna v Praze, u nás ve Vršovicích v Planetě ZA.&#xA;Jak to celé bude probíhat? Obřad bude ve dvě odpoledne, tak pojďme se sejít o hodinku dřív a přivítat se. Po obřadu následuje klasická objímačka a gratulace, které završí přípitek a proslov. Proslov bude mít rodina, ale kdyby někdo z přátel nám chtěl něco také říct, nechť se nebojí, udělá nám to velikou radost.</description>
+    </item>
+    <item>
+      <title>English</title>
+      <link>https://martineliska.vrsocloud.cz/english/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martineliska.vrsocloud.cz/english/</guid>
+      <description>Dear dear friends, parents, relatives, and acquaintances, We would like to invite you to our wedding day. We are getting married on August 24th in Prague, at our place in Vršovice at Planet ZA.&#xA;How will it all unfold? The ceremony will be at two in the afternoon, so let&amp;rsquo;s gather an hour earlier to greet each other. After the ceremony, there will be the customary hugging and congratulations, followed by a toast and a speech.</description>
+    </item>
+  </channel>
+</rss>

@@ -57,7 +57,7 @@ We appreciate gifts, of course, but please consider that we already have plenty,
 
 Planet ZA is a space within the Ankali club. It's an inner block accessible from Na Louži street.
 
-The address is [Na Louži 7, 101 00 Prague](https://en.mapy.cz/s/felutesobo)
+[The address is Na Louži 7, 101 00 Prague](https://en.mapy.cz/s/felutesobo)
 10-Vršovice.
 The entrance gates will be marked.
 
