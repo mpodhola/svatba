@@ -79,13 +79,7 @@ There won't be an official photographer at the wedding. We'll take two photos wi
 
 **CONTACTS**
 
-If anything isn't clear or if you just want to chat, call or write. On the wedding day, it's better to call Adam or Peta.
-
-*Adam 605 902 732*
-
-*Peťa 601 566 493*
-
-**Dotazy**
+If anything isn't clear or if you just want to chat, call to [Martin](tel:+420734161521) or [Eliska](tel:+420721274695) or write here: 
 
 <form accept-charset="UTF-8" action="https://getform.io/f/BeXgm8dy" method="POST">
     <input type="email" name="email" placeholder="Email">
@@ -93,6 +87,14 @@ If anything isn't clear or if you just want to chat, call or write. On the weddi
     <input type="text" name="message" placeholder=" Message">
     <button type="submit">Send</button>
 </form>
+
+
+### On the wedding day, it's better to call [Adam](tel:+420605902732) or [Peta](tel:+4206015666493).
+
+
+
+
+
 
 
 

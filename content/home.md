@@ -113,24 +113,17 @@ Prosíme Vás, abyste také fotili a fotky nám pak zaslali. Děkujeme.
 
 **KONTAKTY**
 
-Kdyby cokoliv nebylo jasné nebo byste s námi chtěli jen pokecat volejte,
-pište. Ve svatební den, radši zavolej Adamovi nebo Pétě
-
-*Eliška 721 274 695,
-[[eliska.our@gmail.com]{.underline}](mailto:eliska.our@gmail.com)*
-
-*Martin 734 161 521,
-[[mpodhola@gmail.com]{.underline}](mailto:mpodhola@gmail.com)*
-
-*Adam 605 902 732*
-
-*Peťa 601 566 493*
-
-**Dotazy**
-
+Kdyby cokoliv nebylo jasné nebo byste s námi chtěli jen pokecat volejte [Martin](tel:+420734161521) nebo [Eliška](tel:+420721274695),
+pište sem: 
 <form accept-charset="UTF-8" action="https://getform.io/f/BeXgm8dy" method="POST">
     <input type="email" name="email" placeholder="Email">
     <input type="text" name="name" placeholder="Tvoje jmeno">
     <input type="text" name="message" placeholder=" Zpráva">
     <button type="submit">Pošili</button>
 </form>
+
+
+### Ve svatební den, radši zavolej [Adamovi](tel:+420605902732) nebo [Pétě](tel:+420601566493)
+
+
+
