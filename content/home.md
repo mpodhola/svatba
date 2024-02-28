@@ -12,10 +12,10 @@ weight: 10
 ![baner](/images/Eliska_a_Martin2.jpg)
 
 
-Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí.
+<p style="text-align: center;">Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí.</p>
 
-Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24.
-srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.
+<p style="text-align: center;">Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24.
+srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.</p>
 
 
 
@@ -131,11 +131,11 @@ pište. Ve svatební den, radši zavolej Adamovi nebo Pétě
 
 *Peťa 601 566 493*
 
-
+**Dotazy**
 
 <form accept-charset="UTF-8" action="https://getform.io/f/BeXgm8dy" method="POST">
-    <input type="email" name="email" placeholder="Your Email">
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="text" name="message" placeholder="Your Message">
-    <button type="submit">Send</button>
+    <input type="email" name="email" placeholder="Email">
+    <input type="text" name="name" placeholder="Tvoje jmeno">
+    <input type="text" name="message" placeholder=" Zpráva">
+    <button type="submit">Pošili</button>
 </form>

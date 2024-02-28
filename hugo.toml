@@ -3,6 +3,11 @@ languageCode = 'en-us'
 #title = 'Martin & Eliska'
 theme = 'huey'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [params]
   # General site metadata, used in header and other places
   author = "Martin Podhola"
