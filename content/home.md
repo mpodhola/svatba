@@ -78,8 +78,7 @@ příspěvek na tenhle večírek.
 Planeta ZA je prostor v rámci klubu Ankali. Jedná se o vnitroblok,
 přístupný z ulice Na Louži.
 
-Adresa je [Na Louži 7, 101 00 Praha](https://en.mapy.cz/s/felutesobo)
-10-Vršovice
+Adresa je **[Na Louži 7, 101 00 Praha 10-Vršovice](https://en.mapy.cz/s/felutesobo)**
 Vchodová vrata budou označena.
 
 Nejlépe se sem dostaneš tramvají 6, 7, 19 na zastávku Bohemians a pak
@@ -113,7 +112,7 @@ Prosíme Vás, abyste také fotili a fotky nám pak zaslali. Děkujeme.
 
 **KONTAKTY**
 
-Kdyby cokoliv nebylo jasné nebo byste s námi chtěli jen pokecat volejte [Martin](tel:+420734161521) nebo [Eliška](tel:+420721274695),
+Kdyby cokoliv nebylo jasné nebo byste s námi chtěli jen pokecat volejte **[Martin](tel:+420734161521)** nebo **[Eliška](tel:+420721274695)**,
 pište sem: 
 <form accept-charset="UTF-8" action="https://getform.io/f/BeXgm8dy" method="POST">
     <input type="email" name="email" placeholder="Email">

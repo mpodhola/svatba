@@ -7,7 +7,7 @@ theme = 'huey'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [params]
   # General site metadata, used in header and other places
   author = "Martin Podhola"
@@ -29,7 +29,7 @@ theme = 'huey'
 
   # # Override Bulma schemes with values
   #  schemeMain = "#F4E5C2" # Change background color, default is white
-   link = "#323232" # Bulma default is blue, though theme is black
+   link = "#8559A5" # Bulma default is blue, though theme is black
    linkHover = "#6DB193" # Bulma default is grey-darker, though theme is #888
   # footerBackgroundColor = "false" # Bulma default is #fafafa. You can use "false" or #hex
    navbarItemHoverColor = "#6DB193" # Bulma default is blue, though theme is #444

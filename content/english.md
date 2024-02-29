@@ -57,8 +57,7 @@ We appreciate gifts, of course, but please consider that we already have plenty,
 
 Planet ZA is a space within the Ankali club. It's an inner block accessible from Na Louži street.
 
-[The address is Na Louži 7, 101 00 Prague](https://en.mapy.cz/s/felutesobo)
-10-Vršovice.
+**[The address is Na Louži 7, 101 00 Prague 10-Vršovice.](https://en.mapy.cz/s/felutesobo)**
 The entrance gates will be marked.
 
 The easiest way to get here is by tram 6, 7, 19 to the Bohemians stop, and then about a 5-minute walk, or by tram 22, 13 to Čechovo náměstí and then about a 3-minute walk.
@@ -79,7 +78,7 @@ There won't be an official photographer at the wedding. We'll take two photos wi
 
 **CONTACTS**
 
-If anything isn't clear or if you just want to chat, call to [Martin](tel:+420734161521) or [Eliska](tel:+420721274695) or write here: 
+If anything isn't clear or if you just want to chat, call to **[Martin](tel:+420734161521)** or **[Eliska](tel:+420721274695)** or write here: 
 
 <form accept-charset="UTF-8" action="https://getform.io/f/BeXgm8dy" method="POST">
     <input type="email" name="email" placeholder="Email">
