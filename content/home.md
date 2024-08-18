@@ -14,6 +14,8 @@ weight: 10
 <p style="text-align: center;">Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí.</p>
 <p style="text-align: center;">Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24. srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.</p>
 
+
+
 #### PROGRAM
 
 Jak to celé bude probíhat?
@@ -41,13 +43,21 @@ prosím na vědomí a doneste si s sebou hotovost nebo karty.
 
 14:00 OBŘAD
 
-15:00 PŘÍPITEK A PROSLOVY
+15:00 JÍDLO
+
+17:00 PŘÍPITEK A PROSLOVY
 
 17:30 KRÁJENÍ DORTU
 
+18:00 DJ DOUGLAS ARRELLANES
+
 18:30 PRVNÍ TANEC A TANCOVAČKY
 
-22:00 AFTERPARTY
+22:00 DJ MAMI NEBOJ
+
+23:00 BEST BEFORE DJS
+
+01:00 LATE KATE DATE B2B MORNING  ŽOFI STAR
 
 *\*\*\*Změna programu vyhrazena.*
 

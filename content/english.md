@@ -15,6 +15,7 @@ weight: 20
 <p style="text-align: center;">Dear dear friends, parents, relatives, and acquaintances.</p>
 <p style="text-align: center;">We would like to invite you to our wedding day. We will be getting married on August 24, 2024, in Prague, at our place in Vršovice at Planet ZA</p>
 
+
 #### PROGRAM
 
 How will it all unfold?
@@ -27,17 +28,25 @@ Afterward, there will be a moment to relax, where you can enjoy some refreshment
 
 At ten o'clock, the official wedding day ends, and the afterparty begins. You are all invited to stay as it will be an amazing DJ set with surprises. The afterparty will move indoors, and after finishing the wedding barrels and wine, paid drinks will be available at the Planet ZA bar. Please take note of this and bring cash or cards with you.
 
-1:00 PM MEETUP AT PLANET ZA
+01:00 PM MEETUP AT PLANET ZA
 
-2:00 PM CEREMONY
+02:00 PM CEREMONY
 
-3:00 PM TOASTS AND SPEECHES
+03:00 PM BUFFE
 
-5:30 PM CAKE CUTTING
+05:00 PM TOAST 
 
-6:30 PM FIRST DANCE AND DANCING
+05:30 PM CAKE CUTTING
 
-10:00 PM AFTERPARTY
+06:00 PM DJ DOUGLAS ARRELLANES
+
+06:30 PM FIRST DANCE AND DANCING
+
+10:00 PM DJ MAMI NEBOJ " DJ DON'T WORRY MOM"
+
+11:00 PM BEST BEFORE DJS
+
+01:00 AM LATE KATE DATE B2B MORNING  ŽOFI STAR
 
 Program subject to change.
 
