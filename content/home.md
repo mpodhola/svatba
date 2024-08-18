@@ -14,7 +14,7 @@ weight: 10
 <p style="text-align: center;">Vážení milý kamarádi, přátelé, rodiče, příbuzní a známí.</p>
 <p style="text-align: center;">Rádi bychom Vás přizvali k našemu svatebnímu dni. Budeme se brát 24. srpna 2024 v Praze, u nás ve Vršovicích v Planetě ZA.</p>
 
-**PROGRAM**
+#### PROGRAM
 
 Jak to celé bude probíhat?
 
@@ -51,7 +51,7 @@ prosím na vědomí a doneste si s sebou hotovost nebo karty.
 
 *\*\*\*Změna programu vyhrazena.*
 
-**JÍDLO A PITÍ**
+#### JÍDLO A PITÍ
 
 Zajišťujeme jídlo, kde se najedí vegetariáni a neurazí se ani
 masožravci. Jídlo bude formou bufetu a začneme mu holdovat až po všech
@@ -65,7 +65,7 @@ K pití bude k dispozici pivo, limo a víno po celý den. Ostatní drinky se
 budou platit na baru. Večer na afterparty budou všechny drinky po vypití
 zásob placené.
 
-**DARY**
+#### DARY
 
 Dary dárečky samozřejmě máme rádi, ale berte v potaz, že toho dost máme
 a nepotřebujeme další věci a zážitky si umíme nadělit sami. A co se dává
@@ -73,7 +73,7 @@ jako svatební dar - mixér? Tak ten si rádi koupíme, ale vybereme si ho
 raději sami. Takže za dary díky, ale možná bychom nejvíce ocenili
 příspěvek na tenhle večírek.
 
-**MÍSTO**
+#### MÍSTO
 
 Planeta ZA je prostor v rámci klubu Ankali. Jedná se o vnitroblok,
 přístupný z ulice Na Louži.
@@ -90,27 +90,30 @@ nebude hrát zrovna fotbal na Slavii, je v ulici hodně míst k
 zaparkování. O víkendu je to zadarmo, čili auto tam můžeš nechat až do
 neděle.
 
-**KOHO A CO SI VZÍT S SEBOU**
+#### KOHO A CO SI VZÍT S SEBOU
 
 Pozvánka platí pro konkrétní páry, rodiny a samozřejmě i vaše děti.
 Prostor není úplně pro děti přizpůsobený, ale i my zde budeme mít
 Bertičku, takže se vynasnažíme udělat někde v růžku dětský koutek, aby
 se mohli veselit i oni. Prosíme své zvířecí mazlíčky nechte doma.
 
-**DRESS CODE**
+#### DRESS CODE
 
 Je to svatba, takže se hodí být ve slušnějším outfitu, nicméně je
 potřeba, aby ti v něm bylo co nejpříjemněji. Prostor je z větší části
 vybetonovaný, je tedy jedno jaké si vezmeš boty. Je důležité, aby se ti
 v nich dobře tancovalo.
 
-**FOCENÍ**
+#### FOCENÍ
 
 Na svatbě není oficiální fotograf. Uděláme si dvě fotky s rodinou hned
 po obřadu a ostatní fotky se budou pořizovat mobilem, instaxem atd.
 Prosíme Vás, abyste také fotili a fotky nám pak zaslali. Děkujeme.
 
-**KONTAKTY**
+_**Prosíme všechny hosty aby se fotili jen v zahradě a né ve vnitřních prostorách klubu. 
+A dále prosíme aby jste neoznačovali lokaci na sociálních sítí. Předem děkujeme.**_ 
+
+#### KONTAKTY
 
 Kdyby cokoliv nebylo jasné nebo byste s námi chtěli jen pokecat volejte **[Martin](tel:+420734161521)** nebo **[Eliška](tel:+420721274695)**,
 pište sem: 

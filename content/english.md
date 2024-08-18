@@ -15,7 +15,7 @@ weight: 20
 <p style="text-align: center;">Dear dear friends, parents, relatives, and acquaintances.</p>
 <p style="text-align: center;">We would like to invite you to our wedding day. We will be getting married on August 24, 2024, in Prague, at our place in Vršovice at Planet ZA</p>
 
-**PROGRAM**
+#### PROGRAM
 
 How will it all unfold?
 
@@ -41,7 +41,7 @@ At ten o'clock, the official wedding day ends, and the afterparty begins. You ar
 
 Program subject to change.
 
-**FOOD AND DRINK**
+#### FOOD AND DRINK
 
 We will provide food that caters to vegetarians and won't offend carnivores. Food will be served buffet-style and will commence after all the formal parts of the wedding day. So please note that if you arrive hungry, food will be served sometime in the afternoon.
 
@@ -49,11 +49,11 @@ The wedding cake will be served in the afternoon as a sweet treat. You'll have t
 
 There will be beer, soft drinks, and wine available throughout the day. Other drinks will be available for purchase at the bar. All drinks at the afterparty will be paid for after consuming the provided supply.
 
-**GIFTS**
+#### GIFTS
 
 We appreciate gifts, of course, but please consider that we already have plenty, and we can manage experiences on our own. As for wedding gifts - a blender, perhaps? We'd prefer to choose it ourselves. So, thanks for the gifts, but we would most appreciate contributions to this party.
 
-**LOCATION**
+#### LOCATION
 
 Planet ZA is a space within the Ankali club. It's an inner block accessible from Na Louži street.
 
@@ -64,19 +64,22 @@ The easiest way to get here is by tram 6, 7, 19 to the Bohemians stop, and then 
 
 If you choose to leave a carbon footprint and come by car, there are plenty of parking spaces on the street unless there's a Slavia football match. Parking is free on weekends, so you can leave your car there until Sunday.
 
-**WHO AND WHAT TO BRING**
+#### WHO AND WHAT TO BRING
 
 The invitation is valid for specific couples, families, and, of course, your children. The space isn't entirely child-proofed, but we'll have Bertička here, so we'll try to set up a kiddie corner so they can have fun too. Please leave your furry friends at home.
 
-**DRESS CODE**
+#### DRESS CODE
 
 It's a wedding, so dressing up a bit is appropriate, but it's important to be comfortable. The space is mostly concrete, so any shoes will do. It's important that you can dance comfortably in them.
 
-**PHOTOGRAPHY**
+#### PHOTOGRAPHY
 
 There won't be an official photographer at the wedding. We'll take two photos with family right after the ceremony, and other photos will be taken with mobile phones, instax, etc. Please feel free to take photos as well and then send them to us. Thank you.
 
-**CONTACTS**
+
+_**We kindly ask all guests to take photos only in the garden and not in the indoor areas of the club. Additionally, we request that you do not tag the location on social media. Thank you in advance.**_
+
+#### CONTACTS
 
 If anything isn't clear or if you just want to chat, call to **[Martin](tel:+420734161521)** or **[Eliska](tel:+420721274695)** or write here: 
 
